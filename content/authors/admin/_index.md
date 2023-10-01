@@ -36,7 +36,7 @@ education:
       year: 2008
 superuser: true
 user_groups:
-  - Researchers
+  - Researchers and Lab Members
 last_name: Bighetti
 highlight_name: false
 first_name: Nelson
