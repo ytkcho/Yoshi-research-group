@@ -39,7 +39,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Researchers
+  - Fellows
 last_name: Wu
 first_name: Alice
 ---
