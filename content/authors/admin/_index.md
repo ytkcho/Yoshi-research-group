@@ -1,5 +1,5 @@
 ---
-title: Yoshi Cho
+title: Nelson Bighetti
 role: Assistant Professor
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
