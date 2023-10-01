@@ -38,8 +38,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
-user_groups:
-  - Fellows
+user_groups: []
 last_name: Wu
 first_name: Alice
 ---
